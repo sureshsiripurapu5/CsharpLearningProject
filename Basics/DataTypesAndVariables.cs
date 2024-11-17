@@ -32,6 +32,11 @@ namespace CsharpLearningProject.Basics
             Console.WriteLine(c ); //char
 
         }
+        public static void Main(string[] args)
+        {
+            DataTypesAndVariables dataTypesAndVariables = new DataTypesAndVariables();
+            dataTypesAndVariables.PrintingValues();
+        }
 
         
     }
