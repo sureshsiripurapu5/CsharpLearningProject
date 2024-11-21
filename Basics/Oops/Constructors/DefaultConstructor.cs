@@ -12,10 +12,10 @@ namespace CsharpLearningProject.Basics.Oops.Constructors
             Console.WriteLine("This is a default constructor it will be automatically inviked when we create the object");
 
         }
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             DefaultConstructor defaultConstructor = new DefaultConstructor();
             DefaultConstructor defaultConstructor1 = new DefaultConstructor();
-        }
+        }*/
     }
 }

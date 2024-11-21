@@ -51,13 +51,14 @@ namespace CsharpLearningProject.Basics.ControlStatements
             
 
         }
-        public static void Main(string[] args)
+       /* public static void Main(String[] args)
         {
             IfElse ifElse = new IfElse();
-            ifElse.SimpleIFStatement();
-            ifElse.IfElseStatement();
-            ifElse.IfElseIfLadderStatement();
-        }
+            ifElse .SimpleIFStatement();
+            ifElse .IfElseIfLadderStatement();
+            
+        }*/
+       
        
     }
 }

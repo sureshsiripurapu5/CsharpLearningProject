@@ -8,7 +8,7 @@ namespace CsharpLearningProject.Basics.ControlStatements.LoopingStatements
 {
      class ForLoopStatement
     {
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             for(int i=1;i<=10;i=i+1) 
                 Console.WriteLine(i);
@@ -23,7 +23,7 @@ namespace CsharpLearningProject.Basics.ControlStatements.LoopingStatements
                 }
             }
 
-        }
+        } */
     }
 }
 

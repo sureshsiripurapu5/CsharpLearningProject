@@ -17,14 +17,14 @@ namespace CsharpLearningProject.Basics.Oops.Constructors
             Console.WriteLine("The destructor is also invoked implicitly,which is used to destroy the objects");
         }
 
-        public static void Main(string[] args) { 
+        /*public static void Main(string[] args) { 
             Destructor destructor = new Destructor();
             Destructor destructor1 = new Destructor();
-           /* destructor = null;
+           destructor = null;
             destructor1 = null;
             GC.Collect();
-            GC.WaitForPendingFinalizers(); */
+            GC.WaitForPendingFinalizers(); 
            
-        }
+        }*/
     }
 }

@@ -57,4 +57,4 @@ namespace CsharpLearningProject.Basics.Oops.Inheritance
     }
 }
 
-//from the above program we have explicitly call the parent constructor with the parameters using base keyword in the child constructor
+//from the above program we have explicitly call the parent constructor with the para

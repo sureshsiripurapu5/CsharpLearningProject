@@ -8,7 +8,7 @@ namespace CsharpLearningProject.Basics.ControlStatements.LoopingStatements
 {
      class WhileLoopStatement
     {
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             int i = 1;
             while (i <= 10)
@@ -17,7 +17,7 @@ namespace CsharpLearningProject.Basics.ControlStatements.LoopingStatements
                 i = i + 1;
             }
 
-        }
+        } */
     }
 }
 

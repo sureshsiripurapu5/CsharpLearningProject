@@ -12,7 +12,7 @@ namespace CsharpLearningProject.Basics.ControlStatements
         
 
 
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             Console.WriteLine("Enter the first value:");
             int i = int.Parse(Console.ReadLine());
@@ -48,7 +48,7 @@ namespace CsharpLearningProject.Basics.ControlStatements
                 
                 
 
-        }
+        }*/
 
     }
 }

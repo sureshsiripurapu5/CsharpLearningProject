@@ -26,14 +26,14 @@ namespace CsharpLearningProject.Basics.Oops.Constructors
             Console.WriteLine("The student clg name is:"+ collegeName );
         }
 
-        public static void Main(string[] args) {
+       /* public static void Main(string[] args) {
             StudentParameterizedConstructor student1 = new StudentParameterizedConstructor(101,"suresh","Klu");
             student1.ShowStudentDetails();
             StudentParameterizedConstructor student2 = new StudentParameterizedConstructor(102, "ramesh", "klu");
             student2.ShowStudentDetails();
 
                 
-        }
+        } */
 
     }
 }

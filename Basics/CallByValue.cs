@@ -18,7 +18,7 @@ namespace CsharpLearningProject.Basics
 
 
 
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             int originlValue = 25;
             CallByValue cb = new CallByValue();
@@ -27,7 +27,7 @@ namespace CsharpLearningProject.Basics
             Console.WriteLine("After manipulation original value:"+originlValue );
 
 
-        }
+        }*/
     }
 }
 

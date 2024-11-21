@@ -16,7 +16,7 @@ namespace CsharpLearningProject.Basics
 
 
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             int originalValue = 10;
             Console.WriteLine("The original value:"+originalValue);
@@ -25,7 +25,7 @@ namespace CsharpLearningProject.Basics
             Console.WriteLine("After modification the original value:"+originalValue );
 
 
-        }
+        }*/
     }
 }
 

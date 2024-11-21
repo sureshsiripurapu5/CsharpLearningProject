@@ -22,21 +22,17 @@ namespace CsharpLearningProject.Basics
         {
             int c = a + b;
             Console.WriteLine(c);
-            Console.WriteLine(f); //float
+            Console.WriteLine("float value::" +f); //float
 
-            Console.WriteLine(d); //decimal
+            Console.WriteLine("double value::"+d); //double
 
-            Console.WriteLine(shortVariable ); //short
-            Console.WriteLine(boolVariable ); //boolean
+            Console.WriteLine("short value::"+shortVariable ); //short
+            Console.WriteLine("boolean value"+boolVariable ); //boolean
 
-            Console.WriteLine(c ); //char
+            Console.WriteLine("char value::"+c ); //char
 
         }
-        public static void Main(string[] args)
-        {
-            DataTypesAndVariables dataTypesAndVariables = new DataTypesAndVariables();
-            dataTypesAndVariables.PrintingValues();
-        }
+      
 
         
     }
