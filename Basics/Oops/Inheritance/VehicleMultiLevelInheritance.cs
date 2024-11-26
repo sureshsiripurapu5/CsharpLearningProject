@@ -27,14 +27,14 @@ namespace CsharpLearningProject.Basics.Oops.Inheritance
         {
             Console.WriteLine("bike speedometer");
         }
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             Bike bike = new Bike();
             bike.Color();
             bike.CarMakesSound();
             bike.BikeSpeed();
 
-        }
+        } */
     }
 
 

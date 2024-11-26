@@ -8,7 +8,7 @@ namespace CsharpLearningProject.Basics.Arrays
 {
     internal class TwoDimensionalArray
     {
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             //in java we use [] [] but here we have to give like [,] and size[2,3]
             //declaration
@@ -28,7 +28,7 @@ namespace CsharpLearningProject.Basics.Arrays
                 }
                 Console.WriteLine();
             }
-        }
+        }*/
 
     }
 }

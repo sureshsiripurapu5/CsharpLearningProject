@@ -8,7 +8,7 @@ namespace CsharpLearningProject.Basics.Arrays
 {
     internal class SampleArray
     {
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             int[] arrayName = new int[5];  //declaration
             arrayName[0] = 1;  //initiliazation
@@ -24,6 +24,6 @@ namespace CsharpLearningProject.Basics.Arrays
             //traversing the array using traditional for loop
             for(int i = 0; i < arrayName.Length; i++) 
                 Console.WriteLine(arrayName[i]);
-        }
+        }*/
     }
 }

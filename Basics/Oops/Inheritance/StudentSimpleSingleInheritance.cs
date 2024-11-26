@@ -43,7 +43,7 @@ namespace CsharpLearningProject.Basics.Oops.Inheritance
             Console.WriteLine("The birary id is:"+ libraryId +" "+"and bookname is:"+bookName );
         }
 
-        public static void Main(string[] args) {
+       /* public static void Main(string[] args) {
             StudentSimpleSingleInheritance student = new StudentSimpleSingleInheritance(101,"suresh");
             student.StudentDetails();
 
@@ -53,7 +53,7 @@ namespace CsharpLearningProject.Basics.Oops.Inheritance
 
 
 
-        }
+        }*/
     }
 }
 

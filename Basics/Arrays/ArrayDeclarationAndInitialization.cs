@@ -8,7 +8,7 @@ namespace CsharpLearningProject.Basics.Arrays
 {
     internal class ArrayDeclarationAndInitialization
     {
-        public static void Main(string[] args)
+      /*  public static void Main(string[] args)
         {
             int[] arrayName = { 1, 2, 3, 4, 5 };
 
@@ -24,6 +24,6 @@ namespace CsharpLearningProject.Basics.Arrays
             
                 
             
-        }
+        }*/
     }
 }
